@@ -1,3 +1,7 @@
 
 let test = 1
 print(test)
+
+if (test < 5 ) (
+print("nilai kurang dari 5")
+)
