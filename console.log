@@ -1,0 +1,17 @@
+
+let test = 1
+print(test)
+
+if (test < 5 ) (
+print("nilai kurang dari 5")
+)
+
+if (test === 1 ) (
+print("nilai 1")
+)
+if (test === 2 ) (
+print("nilai 2")
+)
+if (test === 3 ) (
+print("nilai 3")
+)
