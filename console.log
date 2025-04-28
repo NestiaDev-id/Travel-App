@@ -12,3 +12,6 @@ print("nilai 1")
 if (test === 2 ) (
 print("nilai 2")
 )
+if (test === 3 ) (
+print("nilai 3")
+)
