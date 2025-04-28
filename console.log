@@ -5,3 +5,7 @@ print(test)
 if (test < 5 ) (
 print("nilai kurang dari 5")
 )
+
+if (test === 1 ) (
+print("nilai 1")
+)
